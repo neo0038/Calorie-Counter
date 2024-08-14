@@ -32,8 +32,9 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/CalorieCounter.git
-   cd CalorieCounter
+   git clone https://github.com/neo0038/Calorie-Counter.git
+   cd Calorie-Counter
+   
 Open the Application:
 Open the index.html file in your web browser.
 Usage
